@@ -1,0 +1,5 @@
+C:\dev\SoftByte\Arkansalt\Arkansalt\Arkansalt.Core\bin\Debug\Arkansalt.Core.dll
+C:\dev\SoftByte\Arkansalt\Arkansalt\Arkansalt.Core\bin\Debug\Arkansalt.Core.pdb
+C:\dev\SoftByte\Arkansalt\Arkansalt\Arkansalt.Core\obj\Debug\Arkansalt.Core.csprojResolveAssemblyReference.cache
+C:\dev\SoftByte\Arkansalt\Arkansalt\Arkansalt.Core\obj\Debug\Arkansalt.Core.dll
+C:\dev\SoftByte\Arkansalt\Arkansalt\Arkansalt.Core\obj\Debug\Arkansalt.Core.pdb
